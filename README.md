@@ -1,4 +1,4 @@
-Inventory Management System
+# Inventory Management System
 
 This is an Inventory Management System written in Python using JSON for data storage. It allows users to add, update, view, and search inventory items.
 
