@@ -2,7 +2,7 @@
 
 This is an Inventory Management System written in Python using JSON for data storage. It allows users to add, update, view, and search inventory items.
 
-Features
+# Features
 
 Add new items to the inventory.
 
@@ -14,7 +14,7 @@ Search for an item by name.
 
 Saves inventory data in a JSON file (inventory.json).
 
-File Structure
+# File Structure
 
 inventory.py → Main script
 
