@@ -1,0 +1,27 @@
+{
+    "1": {
+        "name": "Chair",
+        "quantity": 7,
+        "price": 500.0
+    },
+    "2": {
+        "name": "Table",
+        "quantity": 2,
+        "price": 4800.0
+    },
+    "101": {
+        "name": "Table",
+        "quantity": 5,
+        "price": 4500.0
+    },
+    "102": {
+        "name": "Chair",
+        "quantity": 30,
+        "price": 500.0
+    },
+    "12": {
+        "name": "Light",
+        "quantity": 5,
+        "price": 135.0
+    }
+}
